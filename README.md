@@ -1,4 +1,4 @@
 # Arabic
 
 ## Usefull Links
-- [Dictionary](https://milon.madrasafree.com/
+- (Dictionary)[https://milon.madrasafree.com/]
