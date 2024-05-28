@@ -7,3 +7,8 @@
 ## Usefull Links
 - [Dictionary](https://milon.madrasafree.com/)
 - [Verbs web application](https://roadtorecovery.org.il/Spokenarabic/)
+
+## Videos
+- [Yalla](https://youtube.com/@schoolofyalla?si=WHZNlLxmIyknHZGW)
+- [Arabic Celery](https://youtube.com/@arabicclearlylevantinearabic?si=JF5beXtjvaqB98eC)
+- [Makan](https://youtube.com/@kan33.official?si=3hEOA6wsMxx3u7It)
